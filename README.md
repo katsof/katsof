@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katsof
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning various NLP methods 
+- 🌱 I’m currently learning various NLP methods and Deep Learning 
 - 💞️ I’m looking to collaborate on any exciting new project!
 - 📫 How to reach me sofia.mobley1@gmail.com
 
